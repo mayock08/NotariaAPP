@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NotariaAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03c506276c87b9ef142704a73d147947fefc365b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8b7fc580e373356606d38ccf51c4ef07720dadf")]
 [assembly: System.Reflection.AssemblyProductAttribute("NotariaAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NotariaAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
